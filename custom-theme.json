@@ -1,0 +1,10 @@
+{
+  "name": "Custom Ekinox Theme",
+  "description": "This theme includes all custome stuff to make comprehensive cloud data diagrams.",
+  "elements": [
+    {
+      "tag": "Airflow",
+      "icon": "https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png"
+    }
+  ]
+}
