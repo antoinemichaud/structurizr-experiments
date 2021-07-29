@@ -9,6 +9,10 @@
     {
       "tag": "Docker",
       "icon": "https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"
+    },
+    {
+      "tag": "SpringBoot",
+      "icon": "https://raw.githubusercontent.com/antoinemichaud/structurizr-experiments/main/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg"
     }
   ]
 }
