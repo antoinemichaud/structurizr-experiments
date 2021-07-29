@@ -7,6 +7,10 @@
       "icon": "https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png"
     },
     {
+      "tag": "GDrive",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png"
+    },
+    {
       "tag": "Docker",
       "icon": "https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"
     },
